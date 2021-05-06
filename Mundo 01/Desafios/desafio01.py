@@ -1,2 +1,2 @@
 name = input('What is your name? ')
-print('Hello,', name,'! Nice to meet you!')
+print('Hello, {}! Nice to meet you!'.format(name))
