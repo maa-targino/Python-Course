@@ -1,5 +1,0 @@
-print('CALCULADORA DE DESCONTO')
-preçoInicial = float(input('Qual é o preço do produto? '))
-valorDesconto = float(input('Quantos por cento de desconto? '))
-preçoFinal = preçoInicial*(1-(valorDesconto*10**-2))
-print('O preço final da sua compra com {}% de desconto é de: R${:.2f}'.format(valorDesconto,preçoFinal))
