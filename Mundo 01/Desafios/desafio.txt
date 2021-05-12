@@ -1,5 +1,0 @@
-print('Enter with numbers: ')
-n1 = input('Enter with the first number: ')
-n2 = input('Enter with the second number: ')
-float sum = (n1+n2)
-print('The sum result is: ',sum)

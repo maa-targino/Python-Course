@@ -1,5 +1,0 @@
-print('CALCULADORA DE AUMENTO')
-salarioInicial = float(input('Entre com o valor do seu salário atual: '))
-valorAumento = float(input('Entre com o seu percentual de aumento: '))
-salarioComAumento = float(salarioInicial*(1+(valorAumento*10**-2)))
-print('O seu salário final com {}% de aumento é: R${:.2f}'.format(valorAumento,salarioComAumento))
